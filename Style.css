@@ -5,12 +5,12 @@
         }  
         
         body {
-            background-color: rgb(255,255,255);
+            background-color: white);
+            font-family: monospace;
+            color: white;
+            margin-right: 30px;
+            margin-left: 30px;
         }
-#nav-table { width: 600px;}
-
-#nav-td {width:600px; text-aling: center;} 
-
 #banner{ witdh: 100%
 }
 
