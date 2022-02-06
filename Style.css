@@ -1,21 +1,9 @@
-
-        
-        h2 {
-            color: rgb(255, 255, 255);
-        }  
-        
-        body {
-            background-color: white);
-            font-family: monospace;
-            color: white;
-            margin-right: 30px;
-            margin-left: 30px; 
-                
-  #nav-table{ width:800px;
-        }
-                
-#banner{ witdh: 100% 
+body{
+  background: white;
 }
 
-table{ width: 100%
+div.content{
+    width:1024px;
+    margin-left : auto;
+    margin-right: auto;
 }
