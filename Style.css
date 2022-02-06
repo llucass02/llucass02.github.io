@@ -9,8 +9,11 @@
             font-family: monospace;
             color: white;
             margin-right: 30px;
-            margin-left: 30px;
+            margin-left: 30px; 
+                
+  #nav-table{ width:800px;
         }
+                
 #banner{ witdh: 100% 
 }
 
