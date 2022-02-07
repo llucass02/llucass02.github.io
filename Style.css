@@ -50,7 +50,8 @@ p{
 #porugal{
                 width: 100px;
                 margin-left:10px;
-  
+                float: right
   #realmadrid{
                 width: 100px;
                 margin-right:10px;
+                float:left
