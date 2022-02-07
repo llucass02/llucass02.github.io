@@ -8,14 +8,8 @@ div.content{
     margin-right: auto;
 }
 
-#button{
-   background: #0643b4;
-   color: white;
+#nav-table{
    height: 51px;
    witdth:145px;
-   border: 1px solid white;
-   margin-left: 53px;
-   margin-right: 53px;
-   font-size: 150%;
 }
         
