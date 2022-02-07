@@ -40,8 +40,9 @@ p{
 #Lucas{
                 width: 100px;
                 margin-right:10px;
+                float:left
             }
 
 #Lucas{
-            float:left;    
-            }
+    float:left;    
+}
