@@ -47,11 +47,23 @@ p{
     float:left;    
 }
 
-#porugal{
-                width: 100px;
-                margin-left:10px;
-                float: right
+#portugal{
+    width: 100px;
+    margin-left:10px;
+    float: right
+}
+                  
+ #portugal{ 
+    float: right
+}
+      
+      
   #realmadrid{
-                width: 100px;
-                margin-right:10px;
-                float:left
+     width: 100px;
+     margin-right:10px;
+     float:left
+}
+
+#realmadrid{
+    float: left
+}
