@@ -24,11 +24,13 @@ div.content{
 #nav-td{ width:200px; text-align:center;}        
 
 #java{
-   background-color:#013950;
+   background-color: #013950;
           }  
 
 #about{ 
-  background-color:#013950;
+  background-color: #013950;
 } 
 
-#
+#welcome{
+     background-color: #013950;
+}
