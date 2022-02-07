@@ -55,3 +55,7 @@ p{
             float:left;
             z-index: 1;
   }
+
+  .aboutme {
+   margin-top: 20px;
+  }
