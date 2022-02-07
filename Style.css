@@ -7,3 +7,15 @@ div.content{
     margin-left : auto;
     margin-right: auto;
 }
+
+#buton{
+   background: #0643b4;
+   color: white;
+   height: 51px;
+   witdth:145px;
+   border: 1px solid white;
+   margin-left: 53px;
+   margin-right: 53px;
+   font-size: 150%;
+}
+        
