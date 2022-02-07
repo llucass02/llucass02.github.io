@@ -46,24 +46,9 @@ p{
 #Lucas{
     float:left;    
 }
-
 #Portugal{
-    width: 10px;
-    margin-left:10px;
-    float: right;
-}
-                  
- #Portugal{ 
-    float:right;
-}
-      
-      
-  #Realmadrid{
-     width: 10px;
-     margin-right:10px;
-     float:none;
-}
-
-#Realmadrid{
-    float:left;
+            width: 100px;
+            float: left;
+            margin-right: 6px;
+            margin-bottom: 6px;
 }
