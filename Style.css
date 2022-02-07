@@ -56,10 +56,6 @@ p{
             z-index: 1;
   }
 
-  p.aboutme {
-   margin: 30px 0;
+  #aboutme {
+   margin-top: 30px;
   }
-
-  p.b {
-  margin: 20px 0;
-}
