@@ -40,30 +40,30 @@ p{
 #Lucas{
                 width: 100px;
                 margin-right:10px;
-                float:left
+                float:left;
             }
 
 #Lucas{
     float:left;    
 }
 
-#portugal{
+#Portugal{
     width: 100px;
     margin-left:10px;
-    float: right
+    float: right;
 }
                   
- #portugal{ 
-    float: right
+ #Portugal{ 
+    float:right;
 }
       
       
-  #realmadrid{
+  #Realmadrid{
      width: 100px;
      margin-right:10px;
-     float:left
+     float:none;
 }
 
-#realmadrid{
-    float: left
+#Realmadrid{
+    float:left;
 }
