@@ -45,3 +45,11 @@ p{
 
 #Lucas{
     float:left;    
+
+ #realmadrid{
+            width: 250px;
+            height: 250px;
+            position: absolute;
+            bottom: 20px;
+            float:left;
+            z-index: 1;
