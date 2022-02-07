@@ -3,6 +3,7 @@ body{
 }
 
 div.content{
+    background-color:#FFFFFF;
     width:1024px;
     margin-left : auto;
     margin-right: auto;
