@@ -8,7 +8,6 @@ div.content{
     margin-right: auto;
 }
 
-#nav-table{
-   witdth:1024px;
-}
-        
+#nav-table{ witdth:800px;}
+
+#nav-td{ width:200px; text-align:center;}        
